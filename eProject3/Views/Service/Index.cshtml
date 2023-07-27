@@ -1,0 +1,107 @@
+﻿@model IEnumerable<eProject3.Models.DichVu>
+@*@model eProject3.Models.DichVu*@
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="content">
+    <div class="container">
+        <div class="bg-light shadow-md rounded p-4">
+            <form id="view-plans" class="form-row mb-4 mb-sm-2" method="post">
+                <div class="col-12 col-sm-6 col-md-3">
+                    <div class="form-group">
+                        <select class="custom-select" id="operator" required="">
+                            <option value="">Select Your Operator</option>
+                            <option>1st Operator</option>
+                            
+                        </select>
+                    </div>
+                </div>
+                @*<div class="col-12 col-sm-6 col-md-3">
+                    <div class="form-group">
+                        <select class="custom-select" required="">
+                            <option value="">Select Your Circle</option>
+                            <option>1st Circle</option>
+                            
+                        </select>
+                    </div>
+                </div>*@
+                <div class="col-12 col-sm-6 col-md-3">
+                    <div class="form-group">
+                        <select class="custom-select" required="">
+                            <option value="">All Plans</option>
+                            <option>Topup</option>
+                            <option>Full Talktime</option>
+                            <option>Validity Recharge</option>
+                            <option>SMS</option>
+                            <option>Data</option>
+                            <option>Unlimited Talktime</option>
+                            <option>STD</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-3">
+                    <button class="btn btn-primary btn-block" type="submit">View Plans</button>
+                </div>
+            </form>
+            <div class="plans page">
+                <div class="table-responsive-md">
+                    <table class="table table-hover border">
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="text-5 text-primary text-center align-middle">$@item.Price <span class="text-1 text-muted d-block">Amount</span></td>
+                                        <td class="text-3 text-center align-middle">@item.SerName <span class="text-1 text-muted d-block">Name</span></td>
+										<td class="text-3 text-center align-middle">@item.Cat.CatName<span class="text-1 text-muted d-block">Category</span></td>
+                                        <td class="text-3 text-center align-middle">@item.Provider.ProviderName <span class="text-1 text-muted d-block">Provider</span></td>
+                                        <td class="text-1 text-muted align-middle">@Html.Raw(@item.Description)</td>
+                                        <td class="align-middle"><button class="btn btn-sm btn-outline-primary shadow-none text-nowrap" id="planrecharge" type="submit">Recharge Now</button></td>
+                                        <input type="hidden" id="serviceId" value="@item.ServiceId" />
+                                    </tr>
+                                }
+                            }
+
+                            
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- Content end -->
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('.btn').click(function () {
+                
+                var serviceid = parseInt($('#serviceId').val());
+                //var serviceId = $(this).closest("tr").find("#serviceId").val();
+                
+
+                $.ajax({
+                    url: '/api/bill/plan',
+                    type: "POST",
+                    dataType: "JSON",
+                    data: {
+                        ServiceId: serviceid,
+                        
+                    },
+                    success: function (response) {
+                        window.location = 'planbill.html'
+                    },
+                    error: function (error) {
+                        console.log()
+                        alert("There was an error");
+                    }
+                });
+            });
+        });
+    </script>
+}
+

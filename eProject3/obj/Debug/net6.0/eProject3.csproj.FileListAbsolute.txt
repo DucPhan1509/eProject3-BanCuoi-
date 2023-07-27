@@ -1,0 +1,1106 @@
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\appsettings.Development.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\appsettings.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.staticwebassets.runtime.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.exe
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.deps.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.runtimeconfig.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\eProject3.pdb
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Humanizer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\MessagePack.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Build.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.AssemblyReference.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.GeneratedMSBuildEditorConfig.editorconfig
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.AssemblyInfoInputs.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.AssemblyInfo.cs
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.CoreCompileInputs.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.MvcApplicationPartsAssemblyInfo.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.RazorAssemblyInfo.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.RazorAssemblyInfo.cs
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.eProject3.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.build.eProject3.props
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eProject3.props
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eProject3.props
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.pack.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.build.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.development.json
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\scopedcss\bundle\eProject3.styles.css
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\scopedcss\projectbundle\eProject3.bundle.scp.css
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.CopyComplete
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\refint\eProject3.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.pdb
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.genruntimeconfig.cache
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\ref\eProject3.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\mscorlib.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\netstandard.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Console.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Memory.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Web.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Windows.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\PagedList.Core.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\PagedList.Core.Mvc.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\obj\Debug\net6.0\eProject3.MvcApplicationPartsAssemblyInfo.cs
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.Razor.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\AP workapp\Workspace\Eproject\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\appsettings.Development.json
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\appsettings.json
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.staticwebassets.runtime.json
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.exe
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.deps.json
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.runtimeconfig.json
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\eProject3.pdb
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\mscorlib.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\netstandard.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Console.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Data.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Memory.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Web.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Windows.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Humanizer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\MessagePack.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.Razor.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Build.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\PagedList.Core.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\PagedList.Core.Mvc.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eprojectt3\eProject3\eProject3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.AssemblyReference.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.GeneratedMSBuildEditorConfig.editorconfig
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.AssemblyInfoInputs.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.AssemblyInfo.cs
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.CoreCompileInputs.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.MvcApplicationPartsAssemblyInfo.cs
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.MvcApplicationPartsAssemblyInfo.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.RazorAssemblyInfo.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.RazorAssemblyInfo.cs
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.eProject3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.build.eProject3.props
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eProject3.props
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eProject3.props
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.pack.json
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.build.json
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\staticwebassets.development.json
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\scopedcss\bundle\eProject3.styles.css
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\scopedcss\projectbundle\eProject3.bundle.scp.css
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.csproj.CopyComplete
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.dll
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\refint\eProject3.dll
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.pdb
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\eProject3.genruntimeconfig.cache
+D:\eprojectt3\eProject3\eProject3\obj\Debug\net6.0\ref\eProject3.dll

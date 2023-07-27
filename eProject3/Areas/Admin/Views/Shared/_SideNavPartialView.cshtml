@@ -1,0 +1,179 @@
+﻿
+<div class="side-nav">
+    <div class="side-nav-inner">
+        <ul class="side-nav-menu scrollable">
+            <li class="nav-item">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="Home" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-dashboard"></i>
+                    </span>
+                    <span class="title">Dashboard</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-appstore"></i>
+                    </span>
+                    <span class="title">Quan ly don hang</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a asp-area="Admin" asp-controller="ThanhToans" asp-action="Index">Order</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="ThongTins" asp-action="Index">Order Detail</a>
+                    </li>
+                    
+                </ul>
+            </li>
+            <li class="nav-item ">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="DichVus" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-build"></i>
+                    </span>
+                    <span class="title">Quan ly dich vu</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                @*<ul class="dropdown-menu">
+                    <li>
+                        <a href="avatar.html">Avatar</a>
+                    </li>
+                    <li>
+                        <a href="alert.html">Alert</a>
+                    </li>
+                    <li>
+                        <a href="badge.html">Badge</a>
+                    </li>
+                    <li>
+                        <a href="buttons.html">Buttons</a>
+                    </li>
+                    <li>
+                        <a href="cards.html">Cards</a>
+                    </li>
+                    <li>
+                        <a href="icons.html">Icons</a>
+                    </li>
+                    <li>
+                        <a href="lists.html">Lists</a>
+                    </li>
+                    <li>
+                        <a href="typography.html">Typography</a>
+                    </li>
+                </ul>*@
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-hdd"></i>
+                    </span>
+                    <span class="title">Quan ly khach hang</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a asp-area="Admin" asp-controller="AdminCustomers" asp-action="Index">List</a>
+                    </li>
+                    @*<li>
+                        <a href="carousel.html">Search</a>
+                    </li>*@
+                    
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-form"></i>
+                    </span>
+                    <span class="title">Doanh so</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="form-elements.html">Form Elements</a>
+                    </li>
+                    <li>
+                        <a href="form-layouts.html">Form Layouts</a>
+                    </li>
+                    <li>
+                        <a href="form-validation.html">Form Validation</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-table"></i>
+                    </span>
+                    <span class="title">Quan ly he thong</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a asp-area="Admin" asp-controller="TaiKhoans" asp-action="Index">Quan ly tai khoan</a>
+					</li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="Loais" asp-action="Index">Quan ly danh muc</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="ChucVus" asp-action="Index">Quan ly quyen truy cap</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="Providers" asp-action="Index">Quan ly nha cung cap</a>
+                    </li>
+                    
+                    
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="AdminTinTucs" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-build"></i>
+                    </span>
+                    <span class="title">Quan ly News</span>
+
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="FeedBacks" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-build"></i>
+                    </span>
+                    <span class="title">Quan ly FeedBacks</span>
+                    
+                </a>
+            </li>
+            @*<li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-lock"></i>
+                    </span>
+                    <span class="title">Quan ly shipper</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a <a asp-area="Admin" asp-controller="AdminPages" asp-action="Index">New List</a>
+                    </li>
+                </ul>
+            </li>*@
+        </ul>
+    </div>
+</div>

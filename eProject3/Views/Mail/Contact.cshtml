@@ -1,0 +1,100 @@
+﻿@model eProject3.Models.SendMail;
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!-- Page Header
+============================================= -->
+<link rel="stylesheet" href="~/ContactForm/css/default.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/ContactForm/css/layout.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/ContactForm/css/media-queries.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/ContactForm/css/magnific-popup.css" asp-append-version="true" />
+<!-- Script
+================================================== -->
+<script src="~/ContactForm/js/modernizr.js"></script>
+
+<div class="page-header page-header-text-light bg-secondary">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h1>Contact Us</h1>
+            </div>
+            <div class="col-md-4">
+                <ul class="breadcrumb justify-content-start justify-content-md-end mb-0">
+                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="active">Contact Us</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<section id="contact">
+    <div class="row section-head">
+        <div class="two columns header-col">
+            <h1><span>Get In Touch.</span></h1>
+        </div>
+        <div class="ten columns">
+            <p class="lead">
+                You can contact us right here so we can help you quickly. We wish you have a best service.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="eight columns">
+            <!-- form -->
+            <form method="post" asp-controller="Mail" asp-action="Contact" enctype="multipart/form-data">
+                <fieldset>
+                    <div>
+                        <label asp-for="Email">Email <span class="required">*</span></label>
+                        <input type="email" size="35" name="Email" required placeholder="Put your email here so We can reply you">
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <label asp-for="Subject">Subject</label>
+                        <input type="text" size="35" name="Subject" required>
+                        <span asp-validation-for="Subject" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <label asp-for="Message">Message <span class="required">*</span></label>
+                        <textarea cols="50" rows="15" name="Message" required></textarea>
+                        <span asp-validation-for="Message" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <button class="submit" value="Send">Send</button>
+                        <span id="image-loader">
+                            <img alt="" src="~/ContactForm/images/loader.gif">
+                        </span>
+                    </div>
+                </fieldset>
+            </form> <!-- Form End -->
+            @if (!string.IsNullOrEmpty(ViewBag.msg))
+            {
+                <script type="text/javascript">alert('@ViewBag.msg');</script>
+            }
+        </div>
+        <aside class="four columns footer-widgets">
+            <div class="widget widget_contact">
+                <h4>Address and Phone</h4>
+                <p class="address">
+                    P.M.D4c<br>
+                    16, Sun street,Saturn, <br>
+                    - 606 601, TN.<br>
+                    <span>+03123456789 </span>
+                </p>
+            </div>
+        </aside>
+    </div>
+</section> <!-- Contact Section End-->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="~/Content/js/jquery-1.10.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="~/ContactForm/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="~/ContactForm/js/jquery.flexslider.js" asp-append-version="true"></script>
+<script src="~/ContactForm/js/waypoints.js" asp-append-version="true"></script>
+<script src="~/ContactForm/js/jquery.fittext.js" asp-append-version="true"></script>
+<script src="~/ContactForm/js/magnific-popup.js" asp-append-version="true"></script>
+<script src="~/ContactForm/js/init.js" asp-append-version="true"></script>

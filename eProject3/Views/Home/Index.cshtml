@@ -1,0 +1,125 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<!-- Content
+============================================= -->
+<div id="content">
+
+    <div class="bg-secondary pt-4 pb-5">
+        <div class="container">
+            <!-- Secondary Navigation
+            ============================================= -->
+            <ul class="nav secondary-nav alternate">
+                <li class="nav-item"> <a class="nav-link active" href="index-2.html"><span><i class="fas fa-mobile-alt"></i></span> Mobile</a> </li>
+                
+            </ul><!-- Secondary Navigation end -->
+            <!-- Mobile Recharge
+            ============================================= -->
+            <div class="bg-light shadow-md rounded px-4 pt-4 pb-3">
+                <h2 class="text-4 mb-3">Mobile Recharge or Bill Payment</h2>
+                <form id="recharge-bill" method="post">
+                    <div class="mb-3">
+                        <div class="custom-control custom-radio custom-control-inline">
+                            <input id="prepaid" name="rechargeBillpayment" class="custom-control-input" checked="" required="" type="radio">
+                            <label class="custom-control-label" for="prepaid">Prepaid</label>
+                        </div>
+                        <div class="custom-control custom-radio custom-control-inline">
+                            <input id="postpaid" name="rechargeBillpayment" class="custom-control-input" required="" type="radio">
+                            <label class="custom-control-label" for="postpaid">Postpaid</label>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-md-6 col-lg-3 form-group">
+                            <input  type="text" class="form-control" data-bv-field="number" id="mobileNumber" required placeholder="Enter Mobile Number">
+                        </div>
+                        <div class="col-md-6 col-lg-3 form-group">
+                            <select  class="custom-select" id="provider" required="">
+                                <option value="">Select Your Provider</option>
+                                @foreach (var item in ViewBag.ProviderId)
+                                {
+                                    <option value="@item.Text">@item.Text</option>
+                                }
+                            </select>
+                            
+                        </div>
+                        <div class="col-md-6 col-lg-3 form-group">
+                            <a href="planlist.html" @*data-target="#view-plans" data-toggle="modal"*@ class="view-plans-link">View Plans</a>
+                            <input  class="form-control" id="amount" placeholder="Enter Amount" required type="text">
+                        </div>
+                        <div class="col-md-6 col-lg-3 form-group">
+                            <button id="submit" class="btn btn-primary btn-block" type="submit">Continue</button>
+                        </div>
+                    </div>
+                </form>
+            </div><!-- Mobile Recharge end -->
+        </div>
+    </div>
+
+   
+    <!-- Tabs
+    ============================================= -->
+    <div class="section py-4">
+        <div class="container">
+            <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+                <li class="nav-item"> <a class="nav-link active" id="mobile-recharge-tab" data-toggle="tab" href="#mobile-recharge" role="tab" aria-controls="mobile-recharge" aria-selected="true">Mobile Recharge</a> </li>
+                <li class="nav-item"> <a class="nav-link" id="billpayment-tab" data-toggle="tab" href="#billpayment" role="tab" aria-controls="billpayment" aria-selected="false">Bill Payment</a> </li>
+                @*<li class="nav-item"> <a class="nav-link" id="why-quickai-tab" data-toggle="tab" href="#why-quickai" role="tab" aria-controls="why-quickai" aria-selected="false">Why Quickai</a> </li>*@
+            </ul>
+            <div class="tab-content my-3" id="myTabContent">
+                <div class="tab-pane fade show active" id="mobile-recharge" role="tabpanel" aria-labelledby="mobile-recharge-tab">
+                    <p>Instant Online Mobile Recharge It would be more interesting for them and, as some of you will pursue the force, they might be right for me. It changes the tacitmates that is. Laughing at mediocrity is the right thing to do, not to have a big budget. Average quality in these. For when both of these things were perfected by me, the tritan labors were easy for her, without any sense. His eleifend in which But my own other anger.</p>
+                    <p>Participating in the pleasures from when, but it would have been lest, when we want from mine a lie. The tenacity of the stranger's majesty does not prevent him from persecuting and using force. When he says, let the pleasure be accomplished, let him fear no slips. In short, let them leave you, in the judgment of these Epicureans, and my people as well. But instead of making sentences, let's not write two things in Greek. He did not seek real estate, nor, in other ways, did the rest of the people like him. Wherein he understood ours. From here the right is adorned with errors, in the case of the first army. Get him first. Theophrastus is right with the least, the stubbornness of the readings or for <a href="#">Read Terms</a></p>
+                </div>
+                <div class="tab-pane fade" id="billpayment" role="tabpanel" aria-labelledby="billpayment-tab">
+                    <p>Participating in the pleasures from when, but it would have been lest, when we want from mine a lie. The tenacity of the stranger's majesty does not prevent him from persecuting and using force. When he says, let the pleasure be accomplished, let him fear no slips. In short, let them leave you, in the judgment of these Epicureans, and my people as well. But instead of making sentences, let's not write two things in Greek. He did not seek real estate, nor, in other ways, did the rest of the people like him. Wherein he understood ours. From here the right is adorned with errors, in the case of the first army. Get him first. Theophrastus is right with the least, the stubbornness of the readings.</p>
+                    <p>Instant Online Mobile Recharge It would be more interesting for them and, as some of you will pursue the force, they might be right for me. It changes the tacitmates that is. Laughing at mediocrity is the right thing to do, not to have a big budget. Average quality in these. For when both of these things were perfected by me, the tritan labors were easy for her, without any sense. His eleifend in which But my own other anger.</p>
+                </div>
+               
+            </div>
+        </div>
+    </div><!-- Tabs end -->
+    <div class="container">
+        <section class="section bg-light shadow-md rounded px-5">
+            <h2 class="text-9 font-weight-600 text-center">Refer & Earn</h2>
+            <p class="lead text-center mb-5">Refer your friends and earn up to $20.</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="featured-box style-4">
+                        <div class="featured-box-icon bg-light-4 text-primary rounded-circle"> <i class="fas fa-bullhorn"></i> </div>
+                        <h3>You Refer Friends</h3>
+                        <p class="text-3">Share your referral link with friends. They get $10.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featured-box style-4">
+                        <div class="featured-box-icon bg-light-4 text-primary rounded-circle"> <i class="fas fa-sign-in-alt"></i> </div>
+                        <h3>Your Friends Register</h3>
+                        <p class="text-3">Your friends Register with using your referral link.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featured-box style-4">
+                        <div class="featured-box-icon bg-light-4 text-primary rounded-circle"> <i class="fas fa-dollar-sign"></i> </div>
+                        <h3>Earn You</h3>
+                        <p class="text-3">You get $20. You can use these credits to take recharge.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center pt-4"> <a href="#" class="btn btn-primary">Get Started Earn</a> </div>
+        </section>
+    </div><!-- Refer & Earn end -->
+   
+
+</div><!-- Content end -->
+
+
+@section Scripts{
+    <script src="~/js/serviceajax.js"></script>
+}
+
+
+
+

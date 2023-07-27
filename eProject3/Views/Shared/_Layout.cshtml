@@ -1,0 +1,264 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Mobile Recharge</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS
+     ================================================== -->
+@*    <link rel="stylesheet" href="~/Content/css/default.css" asp-append-version="true" />
+*@@*    <link rel="stylesheet" href="~/Content/css/layout.css" asp-append-version="true" />
+*@    
+    <link rel="stylesheet" href="~/Content/css/media-queries.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Content/css/magnific-popup.css" asp-append-version="true" />
+
+    <!-- Script
+    ================================================== -->
+    @*<script src="~/Content/js/modernizr.js"></script>*@
+    <!-- Favicons
+     ================================================== -->
+    @*<link rel="shortcut icon" href="~/Content/favicon.png">*@
+
+
+    <!-- Web Fonts
+    ============================================= -->
+    @*<link rel='stylesheet' href='../fonts.googleapis.com/css2a552a55.html?family=Poppins:100,200,300,400,500,600,700,800,900' type='text/css'>*@
+    <!-- Stylesheet
+    ============================================= -->
+    <link rel="stylesheet" type="text/css" href="~/vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/vendor/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/vendor/owl.carousel/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/vendor/owl.carousel/assets/owl.theme.default.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/stylesheet.css" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmIa6+z2EZnYzP0ZD2rn" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+    <!-- Preloader -->
+<div id="preloader"><div data-loader="dual-ring"></div></div><!-- Preloader End -->
+
+<!-- Document Wrapper   
+============================================= -->
+<div id="main-wrapper">
+
+  <!-- Header
+  ============================================= -->
+  <header id="header">
+    <div class="container">
+      <div class="header-row">
+        <div class="header-column justify-content-start"> 
+          
+          <!-- Logo
+          ============================================= -->
+          <div class="logo">
+          	<a asp-controller="Home" asp-action="Index" title="Mobile Recharge"><img src="~/Content/images/logo.png" alt="Quickai" width="127" height="29" /></a>
+          </div><!-- Logo end -->
+          
+        </div>
+        
+        <div class="header-column justify-content-end">
+        
+          <!-- Primary Navigation
+          ============================================= -->
+          <nav class="primary-menu navbar navbar-expand-lg">
+            <div id="header-nav" class="collapse navbar-collapse">
+              <ul class="navbar-nav">
+			    <li>
+                   <a asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li>
+                   <a href="planlist.html">Plans</a>
+                </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="#">Pages</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="About">About Us</a></li>
+                                <li class="dropdown">
+                                    <a class="dropdown-item dropdown-toggle" asp-controller="Home" asp-action="Loginsignup">Login/Signup</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" asp-controller="Home" asp-action="LoginSignup">Page</a></li>
+                                            <li><a class="dropdown-item" data-toggle="modal" data-target="#login-signup" href="#">Dialog Popup</a></li>
+                                        </ul>
+                                </li>
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="UserAccount">UserAccount</a></li>
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="">Payment</a></li>
+                    <li><a class="dropdown-item" asp-controller="Home" asp-action="Support">Support</a></li>
+                    <li><a class="dropdown-item" asp-controller="Mail" asp-action="Contact">Contact Us</a></li>
+                            </ul>
+                    </li>
+                    <li class="login-signup ml-lg-2"><a class="pl-lg-4 pr-0" data-toggle="modal" data-target="#login-signup" asp-controller="" asp-action="loginandsignup" title="Login / Sign up">Login / Sign up <span class="d-none d-lg-inline-block"><i class="fas fa-user"></i></span></a></li>
+              </ul>
+            </div>
+          </nav><!-- Primary Navigation end -->
+        </div>
+                    <!-- Collapse Button
+                    ============================================= -->
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header-nav"> <span></span> <span></span> <span></span> </button>
+                </div>
+            </div>
+        </header><!-- Header end -->
+
+        <div>
+            @RenderBody();
+        </div>
+
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer">
+            <section class="section bg-light shadow-md pt-4 pb-3">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-3">
+                            <div class="featured-box text-center">
+                                <div class="featured-box-icon"> <i class="fas fa-lock"></i> </div>
+                                <h4>100% Secure Payments</h4>
+                                <p>Moving your card details to a much more secured place.</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="featured-box text-center">
+                                <div class="featured-box-icon"> <i class="fas fa-thumbs-up"></i> </div>
+                                <h4>Trust pay</h4>
+                                <p>100% Payment Protection. Easy Return Policy.</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="featured-box text-center">
+                                <div class="featured-box-icon"> <i class="fas fa-bullhorn"></i> </div>
+                                <h4>Refer & Earn</h4>
+                                <p>Invite a friend to sign up and earn up to $100.</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="featured-box text-center">
+                                <div class="featured-box-icon"> <i class="far fa-life-ring"></i> </div>
+                                <h4>24X7 Support</h4>
+                                <p>We're here to help. Have a query and need help ? <a href="#">Click here</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="container mt-4">
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <p>Payment</p>
+                        <ul class="payments-types">
+                            <li><a href="#" target="_blank"> <img data-toggle="tooltip" src="~/Content/images/payment/visa.png" alt="visa" title="Visa"></a></li>
+                            <li><a href="#" target="_blank"> <img data-toggle="tooltip" src="~/Content/images/payment/discover.png" alt="discover" title="Discover"></a></li>
+                            <li><a href="#" target="_blank"> <img data-toggle="tooltip" src="~/Content/images/payment/paypal.png" alt="paypal" title="PayPal"></a></li>
+                            <li><a href="#" target="_blank"> <img data-toggle="tooltip" src="~/Content/images/payment/american.png" alt="american express" title="American Express"></a></li>
+                            <li><a href="#" target="_blank"> <img data-toggle="tooltip" src="~/Content/images/payment/mastercard.png" alt="discover" title="Discover"></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-md-end flex-column">
+                        <p>Keep in touch</p>
+                        <ul class="social-icons">
+                            <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                            <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                            <li class="social-icons-google"><a href="http://www.google.com/" target="_blank" title="Google"><i class="fab fa-google"></i></a></li>
+                            <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                            <li class="social-icons-youtube"><a href="http://www.youtube.com/" target="_blank" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+                            <li class="social-icons-instagram"><a href="http://www.instagram.com/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="footer-copyright">
+                    <ul class="nav justify-content-center">
+                        <li class="nav-item"> <a class="nav-link active" asp-controller="Home" asp-action="About">About Us</a> </li>
+                        <li class="nav-item"> <a class="nav-link" asp-controller="Mail" asp-action="Contact">Contact</a> </li>
+                        <li class="nav-item"> <a class="nav-link" asp-controller="Home" asp-action="Support">Suport</a> </li>
+                        <li class="nav-item"> <a class="nav-link" asp-controller="" asp-action="Privacy">Privacy Policy</a> </li>
+                    </ul>
+                    <p class="copyright-text">Copyright © 2023 <a asp-controller="Home" asp-action="Index">RechargeMobile</a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer><!-- Footer end -->
+
+    </div><!-- Document Wrapper end -->
+    <!-- Back to Top
+    ============================================= -->
+    <a id="back-to-top" data-toggle="tooltip" title="Back to Top" href="~/Content/javascript:void(0)"><i class="fa fa-chevron-up"></i></a>
+    <div id="login-signup" class="modal fade" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content p-sm-3">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item"> <a id="login-tab" class="nav-link active text-4" data-toggle="tab" href="#login" role="tab" aria-controls="login" aria-selected="true">Login</a> </li>
+                        <li class="nav-item"> <a id="signup-tab" class="nav-link text-4" data-toggle="tab" href="#signup" role="tab" aria-controls="signup" aria-selected="false">Sign Up</a> </li>
+                    </ul>
+                    <div class="tab-content pt-4">
+                        <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
+                            <form id="loginForm" method="post">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="loginMobile" required placeholder="Mobile or Email ID">
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" class="form-control" id="loginPassword" required placeholder="Password">
+                                </div>
+                                <div class="row mb-4">
+                                    <div class="col-sm">
+                                        <div class="form-check custom-control custom-checkbox">
+                                            <input id="remember-me" name="remember" class="custom-control-input" type="checkbox">
+                                            <label class="custom-control-label" for="remember-me">Remember Me</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm text-right"> <a class="justify-content-end" href="#">Forgot Password ?</a> </div>
+                                </div>
+                                <button class="btn btn-primary btn-block" type="submit">Login</button>
+                            </form>
+                        </div>
+                        <div class="tab-pane fade" id="signup" role="tabpanel" aria-labelledby="signup-tab">
+                            <form id="signupForm" method="post">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" data-bv-field="number" id="signupEmail" required placeholder="Email ID">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="signupMobile" required placeholder="Mobile Number">
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" class="form-control" id="signuploginPassword" required placeholder="Password">
+                                </div>
+                                <button class="btn btn-primary btn-block" type="submit">Signup</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Dialog - Login/Signup end -->
+    <!-- Script -->
+    <!-- Java Script
+    ================================================== -->
+    @*<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="~/Content/js/jquery-1.10.2.min.js"><\/script>')</script>
+    <script type="text/javascript" src="~/Content/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="~/Content/js/jquery.flexslider.js" asp-append-version="true"></script>
+    <script src="~/Content/js/waypoints.js" asp-append-version="true"></script>
+    <script src="~/Content/js/jquery.fittext.js" asp-append-version="true"></script>
+    <script src="~/Content/js/magnific-popup.js" asp-append-version="true"></script>
+    <script src="~/Content/js/init.js" asp-append-version="true"></script>*@
+
+
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/vendor/owl.carousel/owl.carousel.min.js"></script> 
+    <script src="~/js/theme.js"></script> 
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
